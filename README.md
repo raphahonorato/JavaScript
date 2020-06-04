@@ -1,2 +1,2 @@
 # JavaScript
-Lampada interativa feita em JS
+Lâmpada interativa feita em JS
