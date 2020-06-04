@@ -1,2 +1,2 @@
-# JavaScripy
- Meus scripts em JavaScript
+# JavaScript
+Lampada interativa feita em JS
